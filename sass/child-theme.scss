@@ -5,5 +5,7 @@
 //Optional files - If you don´t use the corresponding scripts/fonts comment em out
 @import "assets/font-awesome"; // <------- Font Awesome Icon font
 
+@import "../src/sass/understrap/theme/header";
+
 // Any additional imported files //
 @import "theme/child_theme";  // <--------- Add your styles into this file
